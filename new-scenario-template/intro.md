@@ -1,30 +1,22 @@
-# New Scenario Template (Your Title Here)
+# Restaurant booking service: Eat Everywhere
 
-This is a mostly empty template. To create your own first scenario, duplicate this in your own repo, then modify it as needed.
+We are going to do a restaurant booking service. People get the restaurant information through our platforms like phone numbers, opening hours, and menu and make bookings based on their thoughts. They can simply leave their first name and phone number for the reservation. They can make the reservation any time and anywhere.
 
-## Description
+## Microservices
 
-2-3 sentences on what the scenario covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
+The Establishment & Menu API allows you to manage menu items as well as information about the restaurant. Create and update menus, modify dishes, and configure restaurant API endpoints for online and offline use.
 
-Importantly, why does this matter? What can this technology, tool, or approach help you accomplish? Briefly communicate the real-world application(s) of this skill.
+The Booking API allows the restaurant to receive and manage incoming orders. Eat Everywhere's inbound booking alerts, and cancellations are included in the API. The Order API will enable the restaurant to retrieve, accept, deny, and cancel bookings.
 
-## Learning Objective
+## Github repository
 
-- 3-4 bullets
-- of what you
-- will learn
+https://github.com/RaytonKu/Eat-Everywhere
 
-## Prerequisite Skills
+## Content
 
-Define the target audience here, and list any prerequisite skills. For example:
-
-This is for software developers with prior experience using Jenkins to deploy web applications.
-
-## Table of Contents
-
-If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
-
-- Scenario A
-- Scenario B
-- Scenario C
+- Restaurant
+- Store
+- Menu
+- Booking
+- Customer
 
