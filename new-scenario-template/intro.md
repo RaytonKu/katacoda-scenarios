@@ -12,7 +12,7 @@ The Booking API allows the restaurant to receive and manage incoming orders. Eat
 
 https://github.com/RaytonKu/Eat-Everywhere
 
-## Content
+## Microservice
 
 - Restaurant
 - Store
