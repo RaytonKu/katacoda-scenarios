@@ -12,7 +12,3 @@ After installed the pytest, Execute
 
 # Services
 1. Get Customer Details `GET` /eats/customers/{customer_id}
-
-2. Get Customer Status `GET` /eats/customers/{customer_id}/status
-
-3. Set Customer Status `POST` /eats/customers/{customer_id}/status
